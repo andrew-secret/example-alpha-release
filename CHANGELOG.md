@@ -1,3 +1,10 @@
+# [1.0.0-alpha.3](https://github.com/andrew-secret/example-alpha-release/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-05-10)
+
+
+### Bug Fixes
+
+* **ci:** remove ci flag for semantic release ([c041525](https://github.com/andrew-secret/example-alpha-release/commit/c04152508cc152a05ccf2629ffa8db6cf4978f15))
+
 # [1.0.0-alpha.2](https://github.com/andrew-secret/example-alpha-release/compare/v1.0.0-alpha.1...v1.0.0-alpha.2) (2021-05-10)
 
 
