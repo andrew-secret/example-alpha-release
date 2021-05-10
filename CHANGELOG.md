@@ -1,3 +1,10 @@
+# [1.0.0-alpha.4](https://github.com/andrew-secret/example-alpha-release/compare/v1.0.0-alpha.3...v1.0.0-alpha.4) (2021-05-10)
+
+
+### Features
+
+* adjust release config ([2819ca7](https://github.com/andrew-secret/example-alpha-release/commit/2819ca760a7143f3938fecfc419396a3864953a3))
+
 # [1.0.0-alpha.3](https://github.com/andrew-secret/example-alpha-release/compare/v1.0.0-alpha.2...v1.0.0-alpha.3) (2021-05-10)
 
 
